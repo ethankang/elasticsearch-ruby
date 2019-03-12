@@ -44,6 +44,7 @@ module Elasticsearch
           option_method :field
           option_method :format
           option_method :ranges
+          option_method :time_zone
         end
       end
     end
